@@ -9,4 +9,7 @@ title: About
 
 ## About Me
 
+
 {{site.author_description}}
+
+I am a student and I am cool. 
